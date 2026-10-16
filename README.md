@@ -1,31 +1,62 @@
-<!-- ========================================================= -->
-<!--               Mr.1nj3ct0r // Hacker Profile v2.0           -->
-<!-- ========================================================= -->
+<!-- ██████████████████████████████████████████████████████ -->
+<!--                 Mr.1nj3ct0r | Hacker v3.0             -->
+<!-- ██████████████████████████████████████████████████████ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=root%40dev-injector:~%24+whoami;Mr.1nj3ct0r;Full-Stack+Engineer;AI+SaaS+Builder;Cybersecurity+Enthusiast;Hack.+Build.+Secure." />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-injector&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/dev-injector?label=FOLLOWERS&style=flat-square&color=00ff41"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=900&lines=root%40dev-injector:~%24+whoami;Mr.1nj3ct0r;Full-Stack+Engineer;AI+SaaS+Builder;Cybersecurity+Enthusiast;Hack.+Build.+Secure.;Never+Stop+Learning..." />
+
+<br>
+
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="700"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dev-injector&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/dev-injector?label=FOLLOWERS&style=for-the-badge&color=00ff41"/>
+
+<img src="https://img.shields.io/github/stars/dev-injector?affiliations=OWNER&style=for-the-badge&color=00ff41"/>
+
+<img src="https://img.shields.io/badge/Linux-Arch-00ff41?style=for-the-badge&logo=archlinux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Terminal-JetBrains_Mono-00ff41?style=for-the-badge&logo=gnubash&logoColor=black"/>
+
+</div>
+
+---
+
+# 🖥 root@dev-injector:~$
 
 ```console
-root@dev-injector:~$ whoami
-
-Name      :: Mr.1nj3ct0r
-Role      :: Full-Stack Engineer
-Mission   :: Build secure software.
-Status    :: Coding...
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  root@dev-injector:~$ whoami                                │
+│                                                              │
+│  Alias      :: Mr.1nj3ct0r                                  │
+│  Role       :: Full-Stack Engineer                          │
+│  Focus      :: AI SaaS • Cybersecurity • OSS                │
+│  Mission    :: Build. Break. Secure.                        │
+│  Status     :: ██████████████████ ONLINE                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# ~/boot_sequence.sh
+# ⚡ ~/boot_sequence.sh
 
 ```bash
-$ sudo init developer
+$ sudo ./boot_sequence.sh
+
+[ OK ] Loading brain...
+[ OK ] Initializing JavaScript runtime...
+[ OK ] Mounting AI engine...
+[ OK ] Enabling Security Layer...
+[ OK ] Connecting to GitHub...
+[ OK ] Injecting caffeine...
+
+────────────────────────────────────────────
 
 💡 Think();
 🗃️ Code();
@@ -34,152 +65,90 @@ $ sudo init developer
 🔐 Secure();
 ♻️ Repeat();
 
-exit 0
+────────────────────────────────────────────
+
+Developer Ready ✔
 ```
 
 ---
 
-# ~/about.md
+# 📁 ~/about.yaml
 
 ```yaml
-alias: Mr.1nj3ct0r
+developer:
+  alias: Mr.1nj3ct0r
 
-specialization:
-  - Full-Stack Engineering
-  - AI SaaS
-  - Cybersecurity
-  - Cloud Infrastructure
-  - Open Source
+  title: Full-Stack Engineer
 
-philosophy:
-  "First make it work.
-   Then make it fast.
-   Then make it secure."
+  specialization:
+    - AI SaaS
+    - Cybersecurity
+    - Open Source
+    - Cloud Infrastructure
+    - Automation
 
-currently_learning:
-  - AI Agents
-  - System Design
-  - DevSecOps
+  philosophy:
+    - Think Different
+    - Write Clean Code
+    - Break Responsibly
+    - Secure Everything
+
+  currently_learning:
+    - AI Agents
+    - Distributed Systems
+    - DevSecOps
+    - Rust
 ```
 
 ---
 
-# ~/tech-stack
+# 🧠 ~/tech-stack
 
 ```text
+root@dev-injector:~$ neofetch
+
 ████ Languages
-JavaScript  ████████████████████
-TypeScript  ██████████████████
-Python      ███████████████
-SQL         ███████████
+▰▰▰▰▰▰▰▰▰ JavaScript
+▰▰▰▰▰▰▰▰ TypeScript
+▰▰▰▰▰▰▰ Python
+▰▰▰▰▰ SQL
 
 ████ Frontend
-React
-Next.js
-TailwindCSS
+React • Next.js • TailwindCSS
 
 ████ Backend
-Node.js
-Express
-REST API
-Socket.IO
+Node.js • Express • REST • WebSocket
 
 ████ Database
-PostgreSQL
-MySQL
-Redis
+PostgreSQL • Redis • MySQL
 
 ████ DevOps
-Docker
-Linux
-GitHub Actions
-Nginx
+Docker • Linux • Nginx • GitHub Actions
+
+████ Tools
+Git • VS Code • Bash • Postman • Docker
 ```
 
 ---
 
-# ~/github_stats
+# 📊 ~/github_stats.sh
 
-<p align="center">
+```console
+root@dev-injector:~$ ./github_stats.sh
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-injector&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+[■■□□□□□□□□] Connecting to GitHub...
+[■■■■□□□□□□] Fetching repositories...
+[■■■■■■□□□□] Calculating contributions...
+[■■■■■■■■□□] Rendering statistics...
+[■■■■■■■■■■] Completed.
 
-<img height="170" src="https://streak-stats.demolab.com?user=dev-injector&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
-
-# ~/language_usage
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-injector&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
-
-# ~/achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-injector&theme=matrix&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# ~/contribution_matrix
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/dev-injector/dev-injector/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# ~/terminal
-
-```bash
-root@dev-injector:~$ ls projects
-
-SecurityOS/
-AI-SaaS/
-Developer-Tools/
-Open-Source/
-Automation/
+SYSTEM STATUS: ONLINE ✔
 ```
 
-```bash
-root@dev-injector:~$ echo $MOTTO
+<div align="center">
 
-Hack Responsibly.
-Build Fearlessly.
-Secure Everything.
-```
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-injector&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
----
+<img height="180" src="https://streak-stats.demolab.com?user=dev-injector&theme=chartreuse-dark&hide_border=true"/>
 
-<p align="center">
-
-```text
-[ SYSTEM STATUS ]
-
-███████████████████████ 100%
-
-AI ................. ONLINE
-SECURITY ........... ENABLED
-OPEN SOURCE ........ ACTIVE
-COFFEE ............. REQUIRED ☕
-
-```
-
-</p>
-
----
-
-<p align="center">
-
-**⚡ Hack Responsibly • 🚀 Build Fearlessly • 🔐 Secure Everything**
-
-</p>
+</div>
